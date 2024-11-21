@@ -1,0 +1,7 @@
+#1 12/12/12
+Is Leap Year: True
+
+Percentage of Year Completed: 94.81
+Current Days Out of Year: 347
+Current Days in Year Total: 366
+
